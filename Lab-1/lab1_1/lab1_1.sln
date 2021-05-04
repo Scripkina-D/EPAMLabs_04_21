@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array", "..\Scripkina-D\EPAMLabs_04_21\Lab-1\array\array\array.csproj", "{D394751C-41CE-4552-8C99-7E93020DD57D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B788EED1-C8E6-4B99-90E2-BCEB8B3D96CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B788EED1-C8E6-4B99-90E2-BCEB8B3D96CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B788EED1-C8E6-4B99-90E2-BCEB8B3D96CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B788EED1-C8E6-4B99-90E2-BCEB8B3D96CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D394751C-41CE-4552-8C99-7E93020DD57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D394751C-41CE-4552-8C99-7E93020DD57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D394751C-41CE-4552-8C99-7E93020DD57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D394751C-41CE-4552-8C99-7E93020DD57D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {520AD55A-950B-435E-9174-3B92EFB2C120}
+	EndGlobalSection
+EndGlobal
